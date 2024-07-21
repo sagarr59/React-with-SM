@@ -9,7 +9,7 @@ export function ButtonComponent() {
 const ProductItem = () => {
   return (
     <div>
-      <p className="text-green-400 text-3xl">Product 1 </p>
+      <p className="text-green-400 text-3xl">Products</p>
       <ButtonComponent />
     </div>
   );
